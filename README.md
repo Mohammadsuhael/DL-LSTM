@@ -228,9 +228,8 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 
 
 
-
 ### Sample Text Prediction
-Include your sample text prediction here
+
 
 ## RESULT
 Include your result here
